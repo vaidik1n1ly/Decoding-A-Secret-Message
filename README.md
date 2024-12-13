@@ -8,13 +8,13 @@ You are given a Google Doc like [this one](https://docs.google.com/document/d/e/
 
 ![Google Doc content format](google-doc-format.jpeg)
 
-The document specifies the Unicode characters in the grid, along with the x- and y-coordinates of each character.
+*. The document specifies the Unicode characters in the grid, along with the x- and y-coordinates of each character.
 
-The minimum possible value of these coordinates is 0. There is no maximum possible value, so the grid can be arbitrarily large.
+*. The minimum possible value of these coordinates is 0. There is no maximum possible value, so the grid can be arbitrarily large.
 
-Any positions in the grid that do not have a specified character should be filled with a space character.
+*. Any positions in the grid that do not have a specified character should be filled with a space character.
 
-You can assume the document will always have the same format as the example document linked above.
+*. You can assume the document will always have the same format as the example document linked above.
 
 For example, the simplified example document linked above draws out the letter 'F':
 
