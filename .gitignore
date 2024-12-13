@@ -1,0 +1,44 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Logs and runtime files
+*.log
+*.out
+*.pid
+
+# Environment variables and secrets
+.env
+*.env
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Static and media files (Django-specific)
+staticfiles/
+media/
+
+# Database files (Django-specific)
+*.sqlite3
+*.db
+
+# Test and coverage reports
+*.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
